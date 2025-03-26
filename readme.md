@@ -11,7 +11,8 @@ Experienced Back-end Developer specializing in PHP and Laravel, delivering scala
 - **DevOps & Tools:** Docker, Jenkins, Apache Kafka, Swagger, DigitalOcean VPS, Linux  
 - **Databases:** MySQL, PostgreSQL, Elasticsearch, Redis  
 - **Front-End:** HTML, SCSS, jQuery, Tailwind CSS  
-- **Testing:** PHPUnit  
+- **Testing:** PHPUnit
+- **Debugging:** xDebug 
 - **Architecture:** Event-driven microservices (RabbitMQ, Kafka), Parallel Workers (Multi-thread)
 
 ---
