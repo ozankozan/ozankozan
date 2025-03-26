@@ -8,7 +8,7 @@ Experienced Back-end Developer specializing in PHP and Laravel, delivering scala
 ### 🛠️ Tech Stack:
 
 - **Back-End:** PHP (Laravel, Lumen, Core PHP), REST, SOAP  
-- **DevOps & Tools:** Docker, Jenkins, RabbitMQ, Apache Kafka, Swagger  
+- **DevOps & Tools:** Docker, Jenkins, Apache Kafka, Swagger, DigitalOcean VPS, Linux  
 - **Databases:** MySQL, PostgreSQL, Elasticsearch, Redis  
 - **Front-End:** HTML, SCSS, jQuery, Tailwind CSS  
 - **Testing:** PHPUnit  
