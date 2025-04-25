@@ -22,6 +22,9 @@ Experienced Back-end Developer specializing in PHP and Laravel, delivering scala
 #### 🔧 [WhatsIsOOP](https://github.com/ozankozan/whatisoop)  
 Sample OOP Inheritance / Strategy Pattern
 
+#### 🔧 [CommissionCalculator](https://github.com/ozankozan/commission-task)  
+💰 Calculates bank commissions with real-time currency conversion via live exchange rate API.
+
 #### 📋 [Task Assigner](https://github.com/ozankozan/TaskAssigner)  
 Sample Laravel web application that pull tasks from 2 different API and assign it to the development team on a weekly basis.
 
