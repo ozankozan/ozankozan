@@ -1,5 +1,5 @@
 ## Full-stack Developer (Back-end Heavily)  
-**PHP | Laravel | JS | jQuery | SCSS | Tailwind**
+**PHP & Laravel | React & Next.js | TypeScript & jQuery | SCSS | Tailwind**
 
 Experienced Back-end Developer specializing in PHP and Laravel, delivering scalable and maintainable microservices architectures. Proficient in API integrations and Agile methodologies with a focus on SOLID principles and clean code.
 
