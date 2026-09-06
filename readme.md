@@ -1,5 +1,5 @@
 ## Full-stack Developer (Back-end Heavily)  
-**PHP & Laravel | React & Next.js | TypeScript & jQuery | SCSS | Tailwind**
+**PHP & Symfony, Laravel | React & Next.js | TypeScript & jQuery | SCSS | Tailwind**
 
 Experienced Back-end Developer specializing in PHP and Laravel, delivering scalable and maintainable microservices architectures. Proficient in API integrations and Agile methodologies with a focus on SOLID principles and clean code.
 
@@ -7,7 +7,7 @@ Experienced Back-end Developer specializing in PHP and Laravel, delivering scala
 
 ### 🛠️ Tech Stack:
 
-- **Back-End:** PHP (Laravel, Lumen, Core PHP), REST, SOAP  
+- **Back-End:** PHP (Symfony, Laravel, Lumen, Core PHP), REST, SOAP  
 - **DevOps & Tools:** Docker, Jenkins, GrayLog, DeployBot, Rollbar, Swagger, DigitalOcean VPS, Linux  
 - **Databases:** MySQL, PostgreSQL, Elasticsearch, Redis  
 - **Front-End:** HTML, SCSS, jQuery, Tailwind CSS  
